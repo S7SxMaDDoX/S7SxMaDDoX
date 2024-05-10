@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @S7SxMaDDoX
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Python development 
+- 📫 How to reach me gmail = igauravvvv@gmail.com
+- 😄 Pronouns: Gaurav/MaDDoX
