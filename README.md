@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S7SxMaDDoX
+- 👋 Hi, I’m Gaurav Bhatt
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Python development 
